@@ -1,0 +1,91 @@
+
+.<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zoologia</title>
+</head> 
+  <body>
+
+
+<h1> <center> <img src="titulo.png" width="800" height="600" > </img> </center> </h1>
+    
+
+    <center>
+        <table> 
+      
+
+ <tr>
+   
+
+   <td> <h1>  <p> <font size="6"> ¿Qué es la Zoología? <font> </p> </h1>
+
+
+ <p> <font size="5"> La zoología es la rama, dentro de la biología, que se encarga del estudio de los animales.</P>
+
+ <P> <font size="5"> Algunos de los aspectos que aborda la zoología tienen que ver con: </P>
+
+   <div>
+ <ul> <font size="5">
+
+     <li> La distribución y el comportamiento de los animales. </li>
+     <li> Las descripciones anatómicas y morfológicas de cada especie. </li>
+     <li> La relación entre cada especie y el resto de los seres vivos que la rodean. </li>
+ </ul> </font>
+   </div>  </td> 
+
+    <td> <img src="zlg.png" width="400" height="250" > </img> </td>
+
+</tr>
+        </table>
+     </center>
+
+      
+
+<center> <p> <font size="5"> El término “zoología” proviene del griego y se traduce como “ciencia o estudio animal”.
+ Aristóteles fue el primer zoólogo ya que se dedicó a la taxonomía, es decir, a la descripción y catalogación de numerosas especies. 
+
+Más tarde, gracias a las mejoras y perfeccionamientos en el microscopio que logró el neerlandés Antón van Leeuwenhoek (1632-1723), 
+se avanzó en el estudio de los tejidos y de especies, que hasta el momento no habían sido nunca abordados. </font> </p> </center>
+
+   <h1> <p> <font size="6"> ¿Qué estudia la zoología? </font> </p> </h1>
+
+<center> <p> <font size="5"> La zoología estudia a los animales desde ángulos muy diversos. Los zoólogos se dedican, por ejemplo, a la realización de descripciones morfológicas (la parte exterior) y anatómicas (sus órganos y sistemas) de cada especie.
+La zoología también se dedica a estudiar, describir y comprender el comportamiento de las especies dentro de su hábitat y su distribución en los diferentes territorios del planeta.
+Los zoólogos abordan, además, la ecología de las especies: los vínculos y relaciones que mantiene cada especie con el resto de los organismos que forman parte de su hábitat.
+Por último, la zoología se encarga de la realización de clasificaciones taxonómicas, que abordan la tabulación sistemática de aquellos factores que permiten identificar
+a cada especie animal, extinta o no. Estas clasificaciones son el resultado de la exploración por parte de los zoólogos, e incluyen, además, datos sobre la distribución
+en el tiempo y en el espacio de cada una de las especies identificadas. </p> </font> </center>
+
+       <h1> <p> <font size="6"> RAMAS DE LA ZOOLOGIA </font> </p> </h1>
+
+      <div>
+ <ul> <font size="5">
+
+     <li>Etología. Se encarga de abordar la conducta de los animales en relación al hábitat en el que se desarrolla y cuáles son los mecanismos que condicionan su conducta. </li>
+     <li> Embriología. Aborda el desarrollo y la formación del embrión animal.</li>
+     <li> Histología. Se encarga de abordar la estructura y composición de los tejidos.</li>
+     <li> Anatomía. Aborda el tamaño, la forma, la situación, la estructura, la forma y la cantidad de partes internas y externas del cuerpo de cada especie. Dentro de la rama de la anatomía se encuentran las siguientes subdivisiones:</li>
+     <li> Patológica. Aborda los efectos de las enfermedades en las especies.</li>
+     <li> Comparada. Se encarga de estudiar las diferencias y similitudes que se registran entre los órganos del ser humano y el resto de las especies.</li>
+     <li> Topográfica. Estudia las relaciones que se establecen entre diferentes órganos en un mismo lugar.</li>
+     <li> Descriptiva. Hace descripciones sobre el tamaño, la forma, la ubicación y las relaciones de los diferentes órganos que tiene una especie.</li>
+     <li> Fisiología. Aborda las funciones fisiológicas de cada organismo, incluyendo los procesos químicos y físicos que se producen en cada especie.</li>
+     <li> Ecología. Se encarga del estudio de los vínculos entre los animales y su medio ambiente.</li>
+     <li> Genética. Estudia las modificaciones y herencias genéticas de las especies.</li>
+ </ul> </font>
+   </div>
+
+
+
+<font size="6">
+
+ <a href="file:///D:/index.HTML" >Página principal </a>
+</font>
+
+
+
+  </body>
+</html>
